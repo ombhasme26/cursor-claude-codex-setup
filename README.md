@@ -35,7 +35,8 @@ I searched for `Claude Code` in Cursor’s current Plugins/Marketplace section. 
 
 Screenshot evidence:
 
-![Cursor marketplace search showing no Claude Code result](screenshots/claude-code-no-result.png)
+<img width="1920" height="1080" alt="claude-code-no-result" src="https://github.com/user-attachments/assets/e439e759-330b-4ac6-b875-aea5ba51dc63" />
+
 
 ### Codex extension availability
 
